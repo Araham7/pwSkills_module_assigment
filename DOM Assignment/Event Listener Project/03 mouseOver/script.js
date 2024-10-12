@@ -10,3 +10,4 @@ boxElement.addEventListener("mouseover", function () {
     "you entered in Restricted Area 🙅 (mouse over event is working properly)"
   );
 });
+ 
